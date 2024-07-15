@@ -16,6 +16,9 @@ PictaScript is an innovative image captioning application that allows users to u
 
 **Responsive Design:**  The app is designed to work seamlessly on both desktop and mobile devices
 
+![Screenshot (101)](https://github.com/user-attachments/assets/58e1184f-1a8d-43e9-b06c-f965382777e8)
+
+
 **Usage**
 
 **Upload an Image:**
